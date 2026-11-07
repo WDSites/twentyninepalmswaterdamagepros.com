@@ -250,3 +250,6 @@ body{padding-bottom:62px}
 .chips a:hover{background:var(--line)}
 .findblock h3{font-size:18px;margin:18px 0 10px}
 .moresvc{margin:34px 0 10px}
+.nbblock{margin-top:28px;padding-top:22px;border-top:1px solid var(--line)}
+.nbblock h3{font-family:var(--fh,inherit);margin:0 0 8px}
+.nbblock p{margin:0 0 14px;max-width:62ch}
